@@ -15,16 +15,13 @@
 </p>
 ---
 
-### 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Internet of Things** at SATI (CGPA: 7.85/10.0)
-- 🧠 **Amazon ML Summer School Trainee** – Selected from 60,000+ applicants (top 5%)
-- 🏆 **Smart India Hackathon 2025 Finalist** – 2nd position among 88,221 teams
-- 🚀 **25+ delivered automation projects** with 60% manual work reduction
-- 💡 Expert in **Generative AI, LLM Agents, Machine Learning & Full-Stack Development**
-- 🛠️ Currently building **AI-powered applications** and **production-ready ML systems**
+AI Engineer | Python Developer | Machine Learning & Generative AI
 
----
+I build production-ready AI systems, ML APIs, and intelligent automation tools.
+
+Selected for **Amazon ML Summer School (Top 5%)**, with experience delivering **25+ AI and automation solutions** for international clients.
 
 ### 🧰 Tech Stack
 
@@ -46,73 +43,70 @@ IoT & Hardware:           ESP32, Arduino, PCB Design, IoT Systems, Raspberry Pi
 <td width="50%"> 
 <h3>🤖 AI-Powered Developer Portfolio</h3> 
 <p> 
-🚀 <strong>Next.js + TypeScript + Google Gemini API</strong><br> 
-🤖 AI-driven content generation & resume parsing<br> 
-💬 Dynamic chatbot with intelligent responses<br> 
-⚡ Responsive design with Vercel deployment<br><br> 
-<a href="https://github.com/anujjainbatu/portfolio"> 
-<img src="https://img.shields.io/github/stars/anujjainbatu/portfolio?style=social" /> 
+🚀 <strong>Python + FastAPI + OpenAI API</strong><br> 
+🤖 AI-generated portfolio content and assistant chatbot<br> 
+💬 LLM-powered responses using LangChain<br> 
+⚡ Responsive interface with real-time interaction<br><br> 
+<a href="https://github.com/YOURUSERNAME/ai-portfolio"> 
+<img src="https://img.shields.io/github/stars/YOURUSERNAME/ai-portfolio?style=social" /> 
 </a> 
-<a href="https://portfolio.anujjainbatu.tech/"> 
+<a href="https://your-portfolio-link.com/"> 
 <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" /> 
 </a> 
 </p> 
 </td> 
+
 <td width="50%"> 
 <h3>📊 Insurance Premium Prediction API</h3> 
 <p> 
-⚡ <strong>Production-ready ML API with FastAPI</strong><br> 
-🐳 Dockerized with comprehensive monitoring<br> 
-📚 Swagger documentation & Pydantic validation<br> 
-🏗️ Scalable architecture & error handling<br><br> 
-<a href="https://github.com/anujjainbatu/insurance-premium-prediction-fastapi"> 
-<img src="https://img.shields.io/github/stars/anujjainbatu/insurance-premium-prediction-fastapi?style=social" /> 
+⚡ <strong>Machine Learning API with FastAPI</strong><br> 
+📈 Predictive model built with Scikit-learn<br> 
+🐳 Dockerized deployment with API documentation<br> 
+📚 Input validation using Pydantic<br><br> 
+<a href="https://github.com/YOURUSERNAME/insurance-premium-api"> 
+<img src="https://img.shields.io/github/stars/YOURUSERNAME/insurance-premium-api?style=social" /> 
 </a> 
-<a href="http://51.20.55.205:8000/docs"> 
+<a href="http://your-api-link/docs"> 
 <img src="https://img.shields.io/badge/API%20Docs-FF6B35?style=for-the-badge&logo=swagger&logoColor=white" /> 
 </a> 
 </p> 
 </td> 
 </tr> 
+
 <tr> 
 <td width="50%"> 
-<h3>♟️ Chess Trace (IoT System)</h3> 
+<h3>📩 NLP Spam Detection System</h3> 
 <p> 
-🧠 <strong>ESP32 + Firebase + Stockfish AI</strong><br> 
-🎯 98.2% move detection with reed switches<br> 
-🌐 Real-time cloud logging & web dashboard<br> 
-💰 Built at 1/8th commercial cost<br><br> 
-<a href="https://github.com/anujjainbatu/chess-trace"> 
-<img src="https://img.shields.io/github/stars/anujjainbatu/chess-trace?style=social" /> 
+🧠 <strong>Natural Language Processing model</strong><br> 
+📊 Built with Scikit-learn and TF-IDF vectorization<br> 
+⚡ Classifies messages as spam or legitimate<br> 
+📈 High accuracy text classification model<br><br> 
+<a href="https://github.com/YOURUSERNAME/spam-detection"> 
+<img src="https://img.shields.io/github/stars/YOURUSERNAME/spam-detection?style=social" /> 
 </a> 
-<a href="https://github.com/anujjainbatu/chess-trace"> 
+<a href="https://github.com/YOURUSERNAME/spam-detection"> 
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
 </a> 
 </p> 
 </td> 
+
 <td width="50%"> 
-<h3>🔗 LeetConnect Extension</h3> 
+<h3>🎬 Movie Recommendation System</h3> 
 <p> 
-🏆 <strong>Chrome Extension for LeetCode Tracking</strong><br> 
-📊 Real-time friend progress & notifications<br> 
-⚡ Manifest V3, auto-refresh, dark UI<br> 
-👥 Study group management & ranking alerts<br><br> 
-<a href="https://github.com/anujjainbatu/leetconnect"> 
-<img src="https://img.shields.io/github/stars/anujjainbatu/leetconnect?style=social" /> 
+🎯 <strong>Content-based recommendation engine</strong><br> 
+📊 Built using Python, Pandas and Scikit-learn<br> 
+⚡ Suggests movies based on similarity analysis<br> 
+📚 Implements cosine similarity for recommendations<br><br> 
+<a href="https://github.com/YOURUSERNAME/movie-recommender"> 
+<img src="https://img.shields.io/github/stars/YOURUSERNAME/movie-recommender?style=social" /> 
 </a> 
-<a href="https://github.com/anujjainbatu/leetconnect"> 
-<img src="https://img.shields.io/badge/View%20Project-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> 
+<a href="https://github.com/YOURUSERNAME/movie-recommender"> 
+<img src="https://img.shields.io/badge/View%20Project-4285F4?style=for-the-badge&logo=github&logoColor=white" /> 
 </a> 
 </p> 
 </td> 
 </tr> 
 </table>
-
-<p align="center">
-<a href="https://github.com/anujjainbatu?tab=repositories&q=&type=public&language=&sort=updated">
-<img src="https://img.shields.io/badge/🔍 Explore%20All%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
 
 ---
 
@@ -137,35 +131,27 @@ IoT & Hardware:           ESP32, Arduino, PCB Design, IoT Systems, Raspberry Pi
 
 ### 🏅 Major Achievements
 
-* 🥈 **Smart India Hackathon 2025 Finalist** – 2nd among 88,221 teams (0.002%)
-* 🧠 **Amazon ML Summer School Trainee** – Top 5% selection from 60,000+ applicants  
-* 🎓 **HDFC Badhte Kadam Scholar** – Academic excellence (2023 & 2024)
-* 🏆 **Joy of Computing with Python** – IIT Madras NPTEL (Elite + Silver)
-* 🚗 **Satyarth Techfest 2023** – 3rd place in Robo Race with autonomous ESP32 car
-
+• 🧠 Selected for **Amazon ML Summer School (Top 5%)**  
+• 🚀 Delivered **25+ AI and automation projects** for global clients  
+• 📊 Built ML models achieving **88% F1-score** in production systems  
+• ⚡ Developed **production-ready ML APIs** with FastAPI and Docker
 ---
 
 ### 📜 Certifications
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-red?style=for-the-badge&logo=stanford&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta%20Front--End%20Developer-Meta-blue?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Joy%20of%20Computing-IIT%20Madras-orange?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java%20Programming-Duke%20University-purple?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Stanford-red?style=for-the-badge&logo=stanford&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta%20Front--End-Meta-blue?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:anujjainbatu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/anujjainbatu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/anujjainbatu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/anujainbatu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://leetcode.com/u/anujjainbatu"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.kaggle.com/anujjainbatu"><img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://wa.me/918305117236"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat" /></a>
+  <a href="mailto:sofion62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
